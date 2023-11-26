@@ -60,13 +60,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Benoit Durand.</h2>;
-  const three = <h3 className="big-heading">I build things around data.</h3>;
+  const three = <h3 className="big-heading">I process data into value.</h3>;
   const four = (
     <>
       <p>
-        I’m a data engineer specializing in building and designing data platforms.
-        Currently, I’m focused on building nice data treatments
-        at{' '}
+        I’m a data engineer specializing in building and designing data platforms. Currently, I’m
+        focused on building nice data treatments at{' '}
         <a href="https://floa.com/" target="_blank" rel="noreferrer">
           Floa bank
         </a>

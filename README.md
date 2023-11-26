@@ -1,4 +1,10 @@
 <div align="center">
+  Notes from Ben : 
+  Portfolio created from brittanychiang.com - v4. Thank you Brittany for your work.
+  To deploy it as a github page follow this <a href="https://www.youtube.com/watch?v=0tpaCuSoZG0" target="_blank">video</a> and use "yarn add gh-pages"
+</div>
+
+<div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
