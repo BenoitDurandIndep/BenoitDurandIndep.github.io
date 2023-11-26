@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://benoitdurandindep.github.io/sitemap-index.xml
+Host: https://benoitdurandindep.github.io
