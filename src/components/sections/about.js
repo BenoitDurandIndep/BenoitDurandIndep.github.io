@@ -135,9 +135,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! My name is Benoit and I enjoy developing my knowledge and coding new things.
-            On a daily basis, I help companies manage their data, but I'm also interested in the financial markets since 2015.
-            Recently I try to leran Machine Learning!
+              Hello! My name is Benoit and I enjoy developing my knowledge and coding new things. On
+              a daily basis, I help companies manage their data, but I'm also interested in the
+              financial markets and web3 since 2015. Recently I try to learn Machine Learning!
             </p>
 
             <p>
